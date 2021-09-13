@@ -11,5 +11,5 @@ import java.util.Optional;
 public interface RoleDAO extends MongoRepository<MarkdownRoleModel, String> {
 
 
-
+    Optional<MarkdownRoleModel> findByRole(String role);
 }

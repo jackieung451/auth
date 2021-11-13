@@ -9,4 +9,4 @@ spring:
 
 jwt:
   secret:
-    key: 1234asdfqwersdafasdfsadfagefgegbrevqebverbregrqegfrevervrqewerverqeqrvreadvwedvaerfv123351
+    key: insert your key
